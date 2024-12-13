@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "LEGO Star Wars Millennium Falcon",
+      "price": 169.99,
+      "pieces": 1351,
+      "age_recommendation": "9+",
+      "category": "Star Wars"
+    },
+    {
+      "id": "3d45",
+      "name": "Afruz",
+      "price": 52,
+      "pieces": 152,
+      "age_recommendation": "14",
+      "category": "Sport"
+    },
+    {
+      "id": "0410",
+      "name": "Afruz",
+      "price": 52,
+      "pieces": 150,
+      "age_recommendation": "14",
+      "category": "Sport"
+    }
+  ]
+}
